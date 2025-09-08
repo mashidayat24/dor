@@ -18,7 +18,7 @@ pkg install python
 ```
 4. Clone this repo
 ```
-git clone https://github.com/flyxt/myxl-cli
+git clone https://github.com/mashidayat24/dor
 ```
 5. Open the folder
 ```
